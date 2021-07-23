@@ -1,3 +1,6 @@
+#This is a change to the file
+#it should get picked up by git
+
 #settings
 # path to the library file
 %include "/home/ubuntu/liquidsoap-daemon/script/library.liq"
